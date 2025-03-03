@@ -6,11 +6,11 @@ download it, add it to the workspace folder then use #include "path/to/file.h"
 
 # Example code
 
-`
-#include <stdio.h>
-#include "italianC.h"
+``
+`#include <stdio.h>
+`#include "italianC.h"``
 
-intero main() apri
+`intero main() apri`
 
 	virgolafluttuante base e altezza e area;
 
@@ -21,5 +21,5 @@ intero main() apri
 	area uguale base moltiplica altezza;
 	stampaf("L'area e' di: %f" e area);
 
-chiudi
+`chiudi
 `
