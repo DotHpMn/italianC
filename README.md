@@ -6,7 +6,7 @@ download it, add it to the workspace folder then use #include "path/to/file.h"
 
 # Example code
 
-
+<pre>
 `
 #include <stdio.h>
 #include "italianC.h"
@@ -20,3 +20,4 @@ intero main() apri
 	stampaf("L'area e' di: %f" e area);
 chiudi
 `
+	</pre>
