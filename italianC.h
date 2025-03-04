@@ -81,3 +81,12 @@
 #define sefalso :
 #define apri {
 #define chiudi }
+#define finchef ;
+#define o ||
+#define epoi &&
+#define incrementa ;
+#define decrementa ;
+#define minore <
+#define maggiore >
+#define piuuguale +=
+#define menouguale -=
